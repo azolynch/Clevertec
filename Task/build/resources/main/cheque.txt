@@ -1,0 +1,19 @@
+            CASH RECEIPT
+          SUPERMARKET  123
+     12, MILKYWAY Galaxy/ Earth
+          Tel:123-456-7890
+CASHIER: 1234                 DATE: 2022/12/18
+                              TIME: 16:07:55
+________________________________________________
+QTY  DESCRIPTION               PRICE   TOTAL
+ 1   Milk                      $1.50   $1.50
+ 2   Consectetur adiping       $10.50  $21.00
+ 2   Bread                     $1.00   $2.00
+ 3   Bananas                   $2.35   $7.05
+ 4   Melon                     $4.73   $18.92
+ 3   Suspendisse eget          $0.45   $1.35
+================================================
+TAXABLE TOT.                           $49.27
+VAT5%                                  $2.55
+TOTAL                                  $51.82
+________________________________________________
