@@ -25,4 +25,9 @@ public class Product {
     public static String getPriceStr(int value) {
         return String.format("$%d.%02d", value / 100, value % 100);
     }
+
+    @Override
+    public String toString() {
+        return id + ";" + name + ";" + price + ";" + promo;
+    }
 }

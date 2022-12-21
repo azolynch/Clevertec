@@ -13,6 +13,7 @@ public class CheckRunner {
         Purchase purchase = new Purchase("src/main/resources/product.txt",
                 "src/main/resources/promo.txt");
 
+        System.out.println("Enter data in format idItem-Count. For example, 1-1, 2-2, ...\nTo complete the input, enter your card in the format - card-#### (example сard-1234,\nif there is no card, enter card-0000. \nWrite:");
         for (; ; ) {
             String str = sc.next();
             try {
@@ -36,13 +37,3 @@ public class CheckRunner {
         }
     }
 }
-//        idCountList.add("1-2".split("-"));
-//        idCountList.add("4-1".split("-"));
-//        idCountList.add("3-4".split("-"));
-//        idCountList.add("2-3".split("-"));
-//        idCountList.add("1-5".split("-"));
-//        idCountList.add("10-5".split("-"));
-//        idCountList.add("8-9".split("-"));
-//        idCountList.add("7-9".split("-"));
-//        idCountList.add("2-3".split("-"));
-//        idCountList.add("6-2".split("-"));

@@ -12,4 +12,9 @@ public class Promo {
         this.numCard = numCard;
         this.cardSale = cardSale;
     }
+
+    @Override
+    public String toString() {
+        return numCard + ";" + cardSale;
+    }
 }

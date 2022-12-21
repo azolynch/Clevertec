@@ -52,8 +52,13 @@ public class Purchase {
 
     public ArrayList<Product> createPurchase(ArrayList<String[]> idCount) {
         for (String[] temp : idCount) {
-            count.add(Integer.parseInt(temp[1]));
-            this.listProduct.add(arrayListAllProduct.get(Integer.parseInt(temp[0])));
+            try {
+                count.add(Integer.parseInt(temp[1]));
+                this.listProduct.add(arrayListAllProduct.get(Integer.parseInt(temp[0])));
+            } catch (NumberFormatException e) {
+                throw new RuntimeException("Error");
+            }
+
         }
         return listProduct;
     }
@@ -126,7 +131,6 @@ public class Purchase {
                 append("%                                  ").append(getTotalSale()).append("\n").
                 append("TOTAL                                  ").append(getTotalCost()).
                 append("\n________________________________________________");
-        System.out.println(sizeName);
         return cheque;
     }
 }

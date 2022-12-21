@@ -2,15 +2,18 @@
               SUPERMARKET  123
           12, MILKYWAY Galaxy/ Earth
               Tel:123-456-7890
-CASHIER: 1234                 DATE: 2022/12/18
-                              TIME: 16:11:13
+CASHIER: 1234                 DATE: 2022/12/21
+                              TIME: 14:50:53
 ________________________________________________
 QTY  DESCRIPTION               PRICE   TOTAL
- 1   Milk                      $1.50   $1.50
+ 1   Milk                      $1.50  $1.50
+ 2   Bread                     $1.00  $2.00
  2   Consectetur adiping       $10.50  $21.00
- 2   Bread                     $1.00   $2.00
+ 3   Bananas                   $2.35   $7.05
+ 4   Melon                     $4.73   $18.92
+ 6   Meat                      $5.78   $34.68
 ================================================
-TAXABLE TOT.                           $23.30
-VAT5%                                  $1.20
-TOTAL                                  $24.50
+TAXABLE TOT.                           $80.90
+VAT5%                                  $4.25
+TOTAL                                  $85.15
 ________________________________________________
