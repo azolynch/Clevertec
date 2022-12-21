@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestRunner" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-12-21T11:50:14" hostname="DESKTOP-D4V8FF6" time="0.136">
+  <properties/>
+  <testcase name="testPurchaseGetCostProduct()" classname="TestRunner" time="0.029"/>
+  <testcase name="testProductBuilder()" classname="TestRunner" time="0.032"/>
+  <testcase name="testPurchaseGetCostWithSale()" classname="TestRunner" time="0.002"/>
+  <testcase name="testFactoryPromo()" classname="TestRunner" time="0.007"/>
+  <testcase name="testPurchaseGetCheque()" classname="TestRunner" time="0.004"/>
+  <testcase name="testFactoryProduct()" classname="TestRunner" time="0.002"/>
+  <testcase name="testPurchaseCreatePurchase()" classname="TestRunner" time="0.006"/>
+  <testcase name="testProductGetPriceStr()" classname="TestRunner" time="0.003"/>
+  <testcase name="testPurchaseGetter()" classname="TestRunner" time="0.002"/>
+  <testcase name="testPurchaseWrong()" classname="TestRunner" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

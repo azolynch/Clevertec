@@ -1,0 +1,5 @@
+0 Cheese 762 true
+1 Milk 150
+2 Bread 100 true
+3 Bananas 235 true
+4 Melon 473

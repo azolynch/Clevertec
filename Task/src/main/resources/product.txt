@@ -1,0 +1,26 @@
+0 Cheese 762 true
+1 Milk 150
+2 Bread 100 true
+3 Bananas 235 true
+4 Melon 473
+5 Meat 578
+6 Orange 326 true
+7 Sweet 532
+8 Candy 343 true
+9 Cake 910 true
+10 Juice 213
+11 Loren_ipsum 155
+12 Dolor 234
+13 Sir_abet 332
+14 Consectetur_adiping 1050 true
+15 Elit 312
+16 Suspendisse_eget 45
+17 Placerate_massa 3734 true
+18 Aenaen_vulputate 1743
+19 Quan_ac_eleifend 150
+20 Pharetra 99 true
+21 Integer 423
+22 Loren_scelerisque 5430 true
+23 Efficitur 225
+24 Aliquam 350 true
+25 Erat_volutpat 1850
